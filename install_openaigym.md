@@ -3,11 +3,10 @@
 @reinforcement_learning @install
 
 ## on Ubuntu
+
+| Prerequisite
+1. ```sudo apt-get install swig```
     
-    | Prerequisite
-    - sudo apt-get install swig
-    
-    | Install gym & environments
-    1. ```git clone https://github.com/openai/gym```
-    2. ```cd gym```
-    3. ```pip install -e .``` or ```pip install -e .[all]```
+| Install gym & environments
+1. ```git clone https://github.com/openai/gym && cd gym```
+2. ```pip install -e .``` or ```pip install -e .[all]```
