@@ -2,6 +2,8 @@
 
 @install @reinforcement_learning @environment @game
 
+[official document](https://github.com/mgbellemare/Arcade-Learning-Environment/blob/master/doc/manual/manual.pdf)
+
 ## On Ubuntu
 1. Get Ubuntu
     - Recommend [vmware player](https://www.vmware.com/products/workstation-player.html), or [virtual box](https://www.virtualbox.org/wiki/Downloads) for virtual machine
@@ -24,8 +26,8 @@
     3. ```make -j 4``` ( take coffee time )
     
     | install arcade learning environment
-    0. (optional) ```source activate rl_py36```
-    1. ```cd .. && pip install .```
+    1. (optional) ```source activate rl_py36```
+    2. ```cd .. && pip install .```
 
 Furthermore
 - go to 'dqn_breakout.md` ( working )
