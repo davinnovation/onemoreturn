@@ -1,6 +1,6 @@
 # How to Install [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
 
-<tag>install <tag>reinforcement_learning <tag>environment <tag>game
+(T)install (T)reinforcement_learning (T)simulation (T)game
 
 [official document](https://github.com/mgbellemare/Arcade-Learning-Environment/blob/master/doc/manual/manual.pdf)
 

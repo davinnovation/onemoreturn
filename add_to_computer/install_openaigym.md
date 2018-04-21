@@ -1,6 +1,6 @@
 # Install [OpenAI gym](https://gym.openai.com)
 
-<tag>reinforcement_learning <tag>install
+(T)reinforcement_learning (T)install
 
 ## on Ubuntu
 
