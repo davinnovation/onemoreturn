@@ -61,7 +61,9 @@ more simple model == low variance ( robustness )
 ## Training, Validation, Test
 
 `training set` : used for fit parameters of model
+
 `validation set` : used for tune hyperparameters ( part of training )
+
 `test set` : measure preformance of model
 
 - k-fold cross validation
